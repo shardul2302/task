@@ -155,3 +155,11 @@ npm start
 - USER role can only access Invoice dashboard
 - Invoice Number and Financial Year combination must be unique
 - Only USER accounts can be created from frontend (ADMIN via database)
+
+
+<img width="824" height="953" alt="image" src="https://github.com/user-attachments/assets/71e91eae-e2d2-4cd4-a9fd-7a2f94244fbc" />
+
+<img width="1907" height="941" alt="Screenshot 2025-11-24 135410" src="https://github.com/user-attachments/assets/a43a82c0-28a4-4049-92a6-686bf7d5ba79" />
+
+
+
